@@ -1,16 +1,14 @@
-# quiz_app
+# Quiz App
+An app that allows you to live in the magical world of Harry Potter, create notes, and do many things.
 
-A new Flutter project.
 
-## Getting Started
+### What's inside the app?
+- Multiple categories: Sports, Science, Technology, Math.
 
-This project is a starting point for a Flutter application.
+- Offline storage using Hive for seamless performance.
 
-A few resources to get you started if this is your first Flutter project:
+- Real-time score tracking and progress updates.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Modern UI/UX for an engaging user experience.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Easy to customize and extend with new categories and questions.
